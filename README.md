@@ -1,23 +1,20 @@
-### Hello Word! 👋
+  Olá mundo!😎
 
-<img src="https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-e1624308433688.jpg?fit=2309%2C1154&strip=all" width="450px" height="300px">
+Frases que me inspiram 🎶
 
-- 🌱 I'm currently learning full stack
-- 👯 I'm looking to collaborate on front end
-- 💚 I'm from Brazil
-- 📫 How to reach me email glrancan@hotmail.com 
+"Perfecta caritas foras mittit timorem"❤️
 
-<!--
-**byteGianLucas/byteGianLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"The first task of the day is to make the bed"
+        
+  Eu mesmo
 
-Here are some ideas to get you started:
+🙋‍♂️ Meu nome é Gian Lucas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙋 Tenho 16 anos de idade 
+
+💚 Sou brasileiro   
+
+📕 Ensino médio em andamento
+
+🔵 Curso Full Stack na Growdev em andamento
+
