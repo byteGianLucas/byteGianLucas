@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hello Word! 👋
 
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-e1624308433688.jpg?fit=2309%2C1154&strip=all" width="370px" height="250px">
+
+- 🌱 I'm currently learning full stack
+- 👯 I'm looking to collaborate on front end
+- 💚 I'm from Brazil
+- 📫 How to reach me email glrancan@hotmail.com 
 
 <!--
 **byteGianLucas/byteGianLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
