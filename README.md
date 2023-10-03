@@ -1,6 +1,6 @@
 ### Hello Word! 👋
 
-<img src="https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-e1624308433688.jpg?fit=2309%2C1154&strip=all" width="370px" height="250px">
+<img src="https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-e1624308433688.jpg?fit=2309%2C1154&strip=all" width="450px" height="300px">
 
 - 🌱 I'm currently learning full stack
 - 👯 I'm looking to collaborate on front end
