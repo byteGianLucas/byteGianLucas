@@ -1,4 +1,4 @@
-    ## Olá mundo!😎
+    ###Olá mundo!😎
 
 Frases que me inspiram 🎶
 
@@ -6,7 +6,7 @@ Frases que me inspiram 🎶
 
 "The first task of the day is to make the bed"
         
-    ##Eu mesmo
+    ###Eu mesmo
 
 🙋‍♂️ Meu nome é Gian Lucas
 
