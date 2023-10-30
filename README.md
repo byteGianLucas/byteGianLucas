@@ -6,7 +6,9 @@ Frases que me inspiram 🎶
 
 "The first task of the day is to make the bed"
 
-<a href "https://bytegianlucas.github.io/protifolio_de_atividades/"> Veja meu respositório de atividade! <a>
+Veja meu respositório de atividade!
+
+https://bytegianlucas.github.io/protifolio_de_atividades/ 
 
         
 ### Eu mesmo
