@@ -15,8 +15,6 @@ https://bytegianlucas.github.io/protifolio_de_atividades/
 
 🙋‍♂️ Meu nome é Gian Lucas
 
-🙋 Tenho 16 anos de idade 
-
 💚 Sou brasileiro   
 
 📕 Ensino médio em andamento
