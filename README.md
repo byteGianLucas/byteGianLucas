@@ -4,7 +4,7 @@ Frases que me inspiram 🎶
 
 "Perfecta caritas foras mittit timorem"❤️
 
-"The first task of the day is to arrange the bed"
+"The first task of the day is to make the bed"
 
 Veja meu respositório de atividade!
 
